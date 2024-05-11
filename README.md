@@ -16,9 +16,68 @@
   Open the file in a browser and verify the output.
   
 ## CODE
-
+```
+<html>
+<head>
+<title>bio data</title>
+<style type="text/css">
+body
+{
+color: darkviolet;
+text-align: center;
+}
+h1
+{
+color:blue;
+background-color:yellow;
+}
+hr
+{
+background-color: deepskyblue;
+height: 5px;
+}
+p
+{
+text-align: justify;
+border-style: dashed;
+border-width: 4px;
+border-color:deeppink;
+}
+</style>
+</head>
+<body>
+<h1>BIO DATA</h1>
+<hr>
+<p>
+Name:sudharsan M
+<br>
+<br>
+date of birth: 18/01/2005
+<br>
+<br>
+Department: btech.agricultural engineering 
+<br>
+<br>
+Year: I YEAR
+<br>
+<br>
+Hobbies:sleeping,drawing,cooking
+<br>
+<br>
+skills:c language,editing,cooking
+<br>
+<br>
+Mobile Number:2475981765
+<br>
+<br>
+E-Mail ID: qwertyuiop22006@GMAIL.COM
+</p>
+</body>
+</html>
+```
 
 ## OUTPUT
+![biodata](https://github.com/SUDHARSAN011705/Ex05_Web-Design/assets/167398236/89bdf0c3-7144-4a74-b237-d4363f6d0fe7)
 
 
 ## RESULT
